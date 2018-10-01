@@ -7,3 +7,5 @@ Alexis c'est moi
 master
 
 Test Merge Error
+
+Hello
