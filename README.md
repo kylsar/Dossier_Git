@@ -5,7 +5,7 @@ jean-dev-1
 =======
 Alexis c'est moi
 master
-=====
+<<<<<<< HEAD
 
 Salut
 
@@ -14,3 +14,7 @@ Yannis
 ====
 
 Yannis il aime les sucettes a l'anis
+=======
+
+Test Merge Error
+>>>>>>> jean-dev-1
