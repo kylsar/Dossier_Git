@@ -16,9 +16,6 @@ Salut
 Yannis
 
 
-
-Benjamin on lui met plus qu'une main
-
 Test Merge Error
  jean-dev-1
 
